@@ -1,6 +1,6 @@
 # Fila Virtual - Projeto Prático de Algoritmos e Estruturas de Dados I
 
-O presente trabalho foi proposto como primeira forma avaliativa da disciplina Algoritmos e Estruturas de Dados I, disciplina essencial para o desenvolvimento da criatividade e do pensamento lógico, apresentando as principais estruturas de dados presentes na linguagem C.
+O presente trabalho foi proposto como última forma avaliativa da disciplina Algoritmos e Estruturas de Dados I, disciplina essencial para o desenvolvimento da criatividade e do pensamento lógico, apresentando as principais estruturas de dados presentes na linguagem C.
 
 ## 👥 Começando
 
